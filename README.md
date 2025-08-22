@@ -1,10 +1,10 @@
-# 🌱 [url=https://growagardencalc.com/]Grow a Garden Calculator[/url]
+# 🌱 [Grow a Garden Calculator](https://growagardencalc.com/) 
 
 A simple web tool to calculate values and stats for the Roblox game **Grow a Garden**.  
 Built with a mobile-first, SEO-friendly design for quick access to in-game calculations.
 
 ## Features
-- 📊 Calculate [url=https://growagardencalc.com/grow-a-garden-pet-value-list]pet values[/url], [url=https://growagardencalc.com/grow-a-garden-crop-value-list]crop values[/url],[url=https://growagardencalc.com/events/beanstalk-event]event rewards[/url], and [url=https://growagardencalc.com/grow-a-garden-mutations]Mutations[/url]
+- 📊 Calculate [pet values](https://growagardencalc.com/grow-a-garden-pet-value-list), [crop values](https://growagardencalc.com/grow-a-garden-crop-value-list),[event rewards](https://growagardencalc.com/events/beanstalk-event), and [Mutations](https://growagardencalc.com/grow-a-garden-mutations)
 - 🔎 Search and filter items quickly
 - 📱 Mobile-friendly interface
 - ⚡ Fast, lightweight, and SEO optimized
